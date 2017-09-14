@@ -7,7 +7,8 @@ module.exports = {
         'resources': true,
         'urls': true,
         'engelhornConfig': true,
-        'ProductUtils': true
+        'ProductUtils': true,
+        'constants': true
       }
     }
   }
