@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-engelhorn-sfcc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint-Plugin to add globals for engelhorn-sfcc-spefic globals",
   "keywords": [
     "eslint",
