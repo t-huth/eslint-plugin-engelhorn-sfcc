@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-engelhorn-sfcc",
+  "version": "0.0.0",
+  "description": "eslint-Plugin to add globals for engelhorn-sfcc-spefic globals",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "engelhorn"
+  ],
+  "author": "Thorsten Huth <t.huth@engelhorn.de>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-huth/eslint-plugin-engelhorn-sfcc.git"
+  },
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "~3.9.1",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
