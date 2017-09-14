@@ -2,8 +2,8 @@
 
 module.exports = {
   'environments': {
-    'engelhorn': {
-      'commercecloud': {
+    'globals': {
+      'globals': {
         'resources': true,
         'urls': true,
         'engelhornConfig': true,
